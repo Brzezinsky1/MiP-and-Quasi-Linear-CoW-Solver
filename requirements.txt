@@ -1,12 +1,11 @@
 # Main library
-pulp==2.5.0
+pulp
 
 # For working with solvers
-cbc==2.10.3
+cbc
 
 # For handling command-line arguments
-argparse==1.4.0
+argparse
 
 # For type hinting
-typing==3.7.4.3
-
+typing
